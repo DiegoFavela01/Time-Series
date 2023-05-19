@@ -27,4 +27,4 @@ This code uses the following libraries:
 - Prophet
 
 ## Files
-- The necessary files for this "search_data.csv"  "stock_price_data.csv" "sales_data.csv" in the Resources
+- The necessary files for this "google_hourly_search_trends.csv"  "mercado_daily_revenue.csv" "mercado_stock_price.csv" in the Resources
